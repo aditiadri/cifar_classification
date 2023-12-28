@@ -11,6 +11,7 @@ This repository contains a deep learning project using the CIFAR-10 dataset. The
 
 ## Dataset
 The CIFAR-10 dataset is used, consisting of 60,000 32x32 color images in 10 different classes, with 6,000 images per class.
+link-https://www.cs.toronto.edu/~kriz/cifar.html
 
 
 ## Instructions
